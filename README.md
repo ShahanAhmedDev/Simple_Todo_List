@@ -1,6 +1,6 @@
-# knowunity_todo_list
+#todo_list
 
-A new Flutter project.
+Stay organized and on top of your tasks with our intuitive to-do list app! Easily add, edit, and check off tasks as you complete them. With clean and minimalistic design, managing your daily tasks has never been easier. Get started today and streamline your productivity!
 
 ## Getting Started
 
