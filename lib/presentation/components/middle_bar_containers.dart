@@ -18,6 +18,7 @@ class MiddleBarContainers extends ConsumerWidget {
 
   @override
   Widget build(BuildContext context, WidgetRef ref) {
+    ///using the selected provider we update the state here.
     final isSelected = ref.watch(selectedTodoListFilter) == type;
 
     return GestureDetector(
